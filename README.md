@@ -1,6 +1,8 @@
 # Flight Fare Prediction Dashboard
 
 [View the live Power BI dashboard here](https://app.powerbi.com/groups/me/reports/81ca9648-2c26-46da-ae2f-2e0fefc0759e/f365cbcf457fab8c257d?experience=power-bi)
+[View the Insights ](https://app.powerbi.com/groups/me/insights/655a4df4-1099-49b9-8deb-f84261cb8ad9?insightsSource=Desktop&ScenarioId=Signup&experience=power-bi)
+
 
 
 This project utilizes **Power BI** for data visualization and analytics, leveraging historical flight fare data to forecast trends and provide actionable insights.
